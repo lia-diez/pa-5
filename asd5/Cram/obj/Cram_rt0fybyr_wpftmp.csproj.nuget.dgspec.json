@@ -1,0 +1,119 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\karka\\RiderProjects\\asd5\\Cram\\Cram.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\karka\\RiderProjects\\asd5\\asd5\\asd5.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\karka\\RiderProjects\\asd5\\asd5\\asd5.csproj",
+        "projectName": "asd5",
+        "projectPath": "C:\\Users\\karka\\RiderProjects\\asd5\\asd5\\asd5.csproj",
+        "packagesPath": "C:\\Users\\karka\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\karka\\RiderProjects\\asd5\\asd5\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\karka\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Users\\karka\\.dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\karka\\RiderProjects\\asd5\\Cram\\Cram.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\karka\\RiderProjects\\asd5\\Cram\\Cram.csproj",
+        "projectName": "Cram",
+        "projectPath": "C:\\Users\\karka\\RiderProjects\\asd5\\Cram\\Cram.csproj",
+        "packagesPath": "C:\\Users\\karka\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\karka\\RiderProjects\\asd5\\Cram\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\karka\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {
+              "C:\\Users\\karka\\RiderProjects\\asd5\\asd5\\asd5.csproj": {
+                "projectPath": "C:\\Users\\karka\\RiderProjects\\asd5\\asd5\\asd5.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WPF": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Users\\karka\\.dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,15 @@
+C:\Users\karka\RiderProjects\asd5\asd5\bin\Debug\net6.0\asd5.exe
+C:\Users\karka\RiderProjects\asd5\asd5\bin\Debug\net6.0\asd5.deps.json
+C:\Users\karka\RiderProjects\asd5\asd5\bin\Debug\net6.0\asd5.runtimeconfig.json
+C:\Users\karka\RiderProjects\asd5\asd5\bin\Debug\net6.0\asd5.dll
+C:\Users\karka\RiderProjects\asd5\asd5\bin\Debug\net6.0\ref\asd5.dll
+C:\Users\karka\RiderProjects\asd5\asd5\bin\Debug\net6.0\asd5.pdb
+C:\Users\karka\RiderProjects\asd5\asd5\obj\Debug\net6.0\asd5.csproj.AssemblyReference.cache
+C:\Users\karka\RiderProjects\asd5\asd5\obj\Debug\net6.0\asd5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\karka\RiderProjects\asd5\asd5\obj\Debug\net6.0\asd5.AssemblyInfoInputs.cache
+C:\Users\karka\RiderProjects\asd5\asd5\obj\Debug\net6.0\asd5.AssemblyInfo.cs
+C:\Users\karka\RiderProjects\asd5\asd5\obj\Debug\net6.0\asd5.csproj.CoreCompileInputs.cache
+C:\Users\karka\RiderProjects\asd5\asd5\obj\Debug\net6.0\asd5.dll
+C:\Users\karka\RiderProjects\asd5\asd5\obj\Debug\net6.0\ref\asd5.dll
+C:\Users\karka\RiderProjects\asd5\asd5\obj\Debug\net6.0\asd5.pdb
+C:\Users\karka\RiderProjects\asd5\asd5\obj\Debug\net6.0\asd5.genruntimeconfig.cache
